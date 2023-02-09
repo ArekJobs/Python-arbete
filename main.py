@@ -20,6 +20,7 @@ def get_age():
                 break
             else:
                 print("Sorry, it looks like you are to young")
+                exit()
         except ValueError:
             print("Amount must be a number, try again")
     return checker
