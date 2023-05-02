@@ -9,4 +9,3 @@ for i in user_input:
         counted["Numbers"] += 1
 
 print(counted)
-mind you're decisions
